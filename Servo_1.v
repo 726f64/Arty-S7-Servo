@@ -19,6 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 // TEST of Git Repo
+// 2nd Test of Github and Git
 
 //Clock is 100MHz
 // code below based on http://www.fpga4fun.com/RCServos.html
